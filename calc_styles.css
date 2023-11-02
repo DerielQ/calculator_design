@@ -1,0 +1,79 @@
+body{
+    background-color: gray;
+}
+
+table{ 
+    border: 10px solid #242526; 
+    margin-left: auto; 
+    margin-right: auto;
+    height: 380px;
+    width: 300px;
+    background-color: #242526;
+    border-radius: 10px;
+} 
+
+.display{
+    border: 2px solid black;
+    margin: 0;
+    padding: 30px;
+    background-color: white;
+}
+
+.top{
+    background-color: #242526;
+}
+
+td{ 
+    width: 100%; 
+    padding: 20px 40px; 
+    background-color: #36454F; 
+    color: white; 
+    font-size: 24px; 
+    font-weight: bold; 
+    border: none; 
+    border-radius: 5px;
+    font-family: 'Gill Sans MT';
+}
+
+.equals{
+    width: 100%; 
+    padding: 20px 40px; 
+    background-color: #702963; 
+    color: white; 
+    font-size: 24px; 
+    font-weight: bold; 
+    border: none; 
+    border-radius: 5px;
+    font-family: 'Gill Sans MT';
+    text-align: center;
+    vertical-align: middle;
+}
+
+.ops{
+    width: 100%; 
+    padding: 20px 40px; 
+    background-color: #343434; 
+    color: white; 
+    font-size: 24px; 
+    font-weight: bold; 
+    border: none; 
+    border-radius: 5px;
+    font-family: 'Gill Sans MT';
+    text-align: center;
+    vertical-align: middle;
+}
+
+.brand{
+    width: 100%; 
+    padding: 0; 
+    background-color: #242526; 
+    color: white; 
+    font-size: 40px; 
+    font-weight: bold; 
+    border: none; 
+    border-radius: 5px;
+    font-family: 'Gill Sans MT';
+    text-align: center;
+    vertical-align: middle;
+}
+
